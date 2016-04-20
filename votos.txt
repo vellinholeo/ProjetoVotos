@@ -1,0 +1,11 @@
+Leonardo;PSDB;RS;SIM
+Adamati;PT; RS;NAO
+Leonardo;PSDB;PR;SIM
+Cleyton;PT; PR;NAO
+Patricia;PSD;SP;SIM
+Adamati;PT; RS;NAO
+Andre;PT; RS;NAO
+Cleyton;PT; PR;NAO
+Patricia;PSD;SP;SIM
+Patricia;PSD;RJ;SIM
+Adamati;PT; RS;NAO
